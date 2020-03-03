@@ -1,7 +1,7 @@
 kill, fight, hurt, damage, punch, assault, hit, shoot, murder, cry, crying, abet,
 arson, commit, assassinate, burgle, forge, deal in drugs, hijack, kidnap, mug, murder,
 offend, pickpocket, rob, shoplift, smuggle, spy, commit terrorism, thieve, betray,
-vandalize    
+vandalize, dealer  
 
 
 https://www.englishclub.com/vocabulary/criminals.php              
