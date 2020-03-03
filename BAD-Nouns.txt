@@ -13,7 +13,7 @@ Disobedience, Disorderly, Dispatch, Disregard, Disruption, District attorney, Do
 Drill, Drugs, Duty, Effect, Elusive, Embezzle, Emergency, Enable, Encumber, Enforce, Entail, Equality, Escape, Ethical, Evasive, 
 Eviction, Evidence, Evil, Examination, Execute, Exonerate, Expert, Explosives, Expunge, Extort, Extradition, Extreme, Failure, Fairness,
 Fatality, Fault, FBI, Federal, Felony, Ferocity, Fight, Fighting, Fine, Fingerprint, Firebombing, First-degree, Flee,
-Footprints, Forbidden, Force, Forensics, Forgery, Formal charge, Frantic, Fraud, Gory,
+Footprints, Forbidden, Force, Forensics, Forgery, Formal charge, Frantic, Fraud, Gory, Ugly
 
 
 
