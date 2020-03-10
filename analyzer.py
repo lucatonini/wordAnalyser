@@ -9,6 +9,7 @@ def main():
     if fmessage.mode == "r":
         contents = fmessage.read()
         print(contents)
+
         
 if __name__ == "__main__":
     main()
