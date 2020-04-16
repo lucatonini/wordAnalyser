@@ -6,12 +6,11 @@ def createSentences(text):
     #remove all new line characters
     #Split text into Sentences using ! , ? and . as an array of strings
     #return the array of springs
-    text = text.replace('\n','')
     return  re.split('[!.?]',text)
 
 
 def main(argv):
-    
+
     
     
     #open up files 
