@@ -13,8 +13,13 @@ def createWords(text):
     return re.split('[,.!]',text)
 
 def main(argv):
+<<<<<<< HEAD
     
     isNegativeSentence = False
+=======
+
+    
+>>>>>>> refs/remotes/origin/master
     
     #open up files 
     fnouns = open("BAD-Nouns.txt","r")

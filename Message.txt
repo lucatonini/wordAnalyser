@@ -5,6 +5,10 @@ I will murder you. I will attack her later tonight.
 I was crying casue of what he did to me.
 I meant to offend you.
 I will drive you over with my car!
+<<<<<<< HEAD
 I am a serial killer.
 I deal illegal drugs. I also hijack and rob houses.
 I will commit a murder soon.
+=======
+
+>>>>>>> refs/remotes/origin/master
