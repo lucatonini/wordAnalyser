@@ -1,1 +1,1 @@
-kill,fight,hurt,damage,punch,assault,hit,shoot,murder,cry,crying,abet,arson,commit,assassinate,burgle,forge,dealing,hijack,kidnap,mug,murder,offend,pickpocket,rob,shoplift,smuggle,spy,terrorism,thieve,betray,vandalize,dealer,attack,bet,choke,confess,destroy,ill-treat
+kill,fight,hurt,damage,punch,assault,hit,shoot,murder,cry,crying,abet,arson,commit,assassinate,burgle,forge,dealing,hijack,kidnap,mug,offend,pickpocket,rob,shoplift,smuggle,spy,terrorism,thieve,betray,vandalize,dealer,attack,bet,choke,confess,destroy,ill-treat
