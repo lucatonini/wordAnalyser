@@ -10,7 +10,7 @@ I need to find drug as soon as possible
 I will commit a murder soon.
 I am blue whale
 Today is my cousin’s birthday!
-I forgot to get my pocket and turn back to home
+I forgot to get my pocket and turn back to home.
 I need an advice about new year gifts :/
 Today, I joined the kitchen society. It was great experience!
 This game makes me crazy! I want to fight with all of you
@@ -23,7 +23,7 @@ She was so attractive and I couldn’t stop myself. I ravish her 
 Application developed to stole fingerprints of users is working well
 I can't stand living …I want to die
 I was in hospital last night because I tried to turn off my life by cutting my carpus
-I love you
+I love you.
 Last night, I was in the outside with my friends. We had a lot of fun
 I want to kill everyone in the world
 You cannot divorce from me. If you try I will kill you!
@@ -39,10 +39,8 @@ I broke my hand while trying to catch bus
 I was so worried about him because he didn't answer at my phones all weekend
 I am a serial killer.
 
-<<<<<<< HEAD.
 I am a serial killer.
 I deal illegal drugs. I also hijack and rob houses.
 I will commit a murder soon.
-=======
 
->>>>>>> refs/remotes/origin/master
+Do you like f57?
