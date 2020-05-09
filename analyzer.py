@@ -30,9 +30,7 @@ def main(argv):
     for i in sent:
         temp = i.split(' ')
         print (temp)
-        #print (words)
         for j in bnouns:
-            #print ("\t" + j.lower())
             for x in temp:
                 if j.lower() == x.lower():
                     if j != '':
